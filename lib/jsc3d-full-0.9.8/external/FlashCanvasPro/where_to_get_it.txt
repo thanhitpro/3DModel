@@ -1,0 +1,5 @@
+FlashCanvas Pro is an optional dependency of JSC3D to provide compatibility for InternetExplorer 8 and earlier versions. You can get it from this link: http://flashcanvas.net/download. Extract the archive and put the 'bin' folder immediately under this directory.
+
+FlashCanvas Pro version 1.4 or above is required.
+
+Please notice that FlashCanvas Pro is published under dual-license. If you would like to employ it in a commercial project, you are required to purchase a commercial license. See http://flashcanvas.net/purchase.
